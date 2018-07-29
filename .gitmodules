@@ -1,0 +1,3 @@
+[submodule "NintendoClients"]
+	path = NintendoClients
+	url = https://github.com/Stary2001/NintendoClients.git
